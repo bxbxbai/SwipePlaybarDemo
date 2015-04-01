@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="8dp"
+                android:id="@+id/v_music"
+                android:layout_marginRight="8dp"
+                android:layout_height="match_parent">
+
+    <io.bxbxbai.swipeplaybar.widget.CircleImageView
+        android:layout_width="?actionBarSize"
+        android:src="@drawable/bxbxbai"
+        android:id="@+id/iv_artist_cover"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_height="?actionBarSize"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_artist_cover"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:visibility="visible"
+        android:text="Try"
+        android:id="@+id/tv_song_name"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_artist_cover"
+        android:layout_below="@id/tv_song_name"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="5dp"
+        android:visibility="visible"
+        android:textColor="#B6B6B6"
+        android:text="P!nk - bxbxbai"
+        android:id="@+id/tv_artist_name"/>
+
+</RelativeLayout>
