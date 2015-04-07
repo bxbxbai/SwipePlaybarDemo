@@ -16,6 +16,8 @@ import java.util.Queue;
 import butterknife.ButterKnife;
 
 /**
+ * PlayBar ViewPager Adapter
+ *
  * @author bxbxbai
  */
 public class PlayCtrlBarPagerAdapter extends PagerAdapter {

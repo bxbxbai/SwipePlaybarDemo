@@ -1,18 +1,23 @@
-# Swipe Playbar
+看了QQ音乐Android版有这个功能，觉得挺好玩的，就模仿它做了一个demo，可以滑动切歌（转换的gif严重失真，只能截图了 -.-）
 
-模仿QQ音乐Android版的底部播放条，可以滑动切歌（转换的gif严重失真，只能截图了 -.-）
+项目地址：[https://github.com/bxbxbai/SwipePlaybarDemo](https://github.com/bxbxbai/SwipePlaybarDemo)
+
+下载地址：[http://vdisk.weibo.com/s/GGofvp4_QVU/1428410542](http://vdisk.weibo.com/s/GGofvp4_QVU/1428410542)
 
 底部播放条的歌曲信息可以滑动切换，并且专辑图会转动
 
 
 ##看看截图：
-![此处输入图片的描述][1] 
 
-![此处输入图片的描述][2]
+![1][1]
 
-![此处输入图片的描述][3]
+![2][2] 
 
-![此处输入图片的描述][4]
+![3][3]
+
+![4][4]
+
+![5][5]
 
 
 ## Dependency - 依赖
@@ -30,11 +35,12 @@
 
 ##关于我
 
-[http://bxbxbai.gitcafe.io/about/][5]
+[http://bxbxbai.gitcafe.io/about/][6]
 
 
-  [1]: http://i3.tietuku.com/ba17970dc1f94ad7.png
-  [2]: http://i3.tietuku.com/f0be1aeb9341da95.png
-  [3]: http://i3.tietuku.com/e20711a8c2e377d3.png
-  [4]: http://i3.tietuku.com/64e0e9519e050fc9.png
-  [5]: http://bxbxbai.gitcafe.io/about/
+  [1]: http://i2.tietuku.com/de77e5c2f25e89f1.png
+  [2]: http://i3.tietuku.com/ba17970dc1f94ad7.png
+  [3]: http://i3.tietuku.com/f0be1aeb9341da95.png
+  [4]: http://i3.tietuku.com/e20711a8c2e377d3.png
+  [5]: http://i3.tietuku.com/64e0e9519e050fc9.png
+  [6]: http://bxbxbai.gitcafe.io/about/
